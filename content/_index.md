@@ -24,7 +24,7 @@ sections:
 
         **我是小咪咪**
 
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
+        小咪咪很好吃，非常香。
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
